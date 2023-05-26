@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/appideas/static/css/main.3cc47d31.css",
-    "main.js": "/appideas/static/js/main.56a13b9d.js",
+    "main.css": "/appideas/static/css/main.516e4a87.css",
+    "main.js": "/appideas/static/js/main.8207170d.js",
     "static/js/787.434f53c2.chunk.js": "/appideas/static/js/787.434f53c2.chunk.js",
     "static/media/ent.png": "/appideas/static/media/ent.239a79899dec94e57b81.png",
     "static/media/logo.png": "/appideas/static/media/logo.e806d86c8e43e357bb5f.png",
@@ -10,12 +10,12 @@
     "static/media/nft.png": "/appideas/static/media/nft.3f19a85cb1f2f8fa3a45.png",
     "static/media/ecom.PNG": "/appideas/static/media/ecom.d44b3111f1742dd1bccf.PNG",
     "index.html": "/appideas/index.html",
-    "main.3cc47d31.css.map": "/appideas/static/css/main.3cc47d31.css.map",
-    "main.56a13b9d.js.map": "/appideas/static/js/main.56a13b9d.js.map",
+    "main.516e4a87.css.map": "/appideas/static/css/main.516e4a87.css.map",
+    "main.8207170d.js.map": "/appideas/static/js/main.8207170d.js.map",
     "787.434f53c2.chunk.js.map": "/appideas/static/js/787.434f53c2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3cc47d31.css",
-    "static/js/main.56a13b9d.js"
+    "static/css/main.516e4a87.css",
+    "static/js/main.8207170d.js"
   ]
 }
